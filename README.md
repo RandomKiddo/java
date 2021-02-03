@@ -1,5 +1,14 @@
 # Java Repo Guide
 
+### Table of Contents
+
+1. [Calculator](#calculator-+-calculator.jar)
+2. [Fraction](#frac-+-frac.jar)
+3. [Stats](#stats-+-stats.jar)
+4. [StringX](#strix-+-stringx.jar)
+5. [Tuple](#Tuple-+-Tuple.java)
+6. [License](#license)
+
 ### Calculator + Calculator.jar
 
 The biggest package here! Contains calculators, graphing calculators, and more!
@@ -381,6 +390,10 @@ Subtract.subtract(str, String/double/char/int remove);
 Subtract.subtractAll(str, String/double/char/int remove);
 //returns new string with all instances of remove removed
 ```
+
+### Tuple + Tuple.java
+
+>-- COMING SOON --< [UNDER CONSTRUCTION]
 
 # License
 
