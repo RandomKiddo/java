@@ -2,14 +2,14 @@
 
 ### Table of Contents
 
-1. [Calculator](#calculator-+-calculator.jar)
-2. [Fraction](#frac-+-frac.jar)
-3. [Stats](#stats-+-stats.jar)
-4. [StringX](#strix-+-stringx.jar)
-5. [Tuple](#Tuple-+-Tuple.java)
+1. [Calculator](#calculator)
+2. [Fraction](#frac)
+3. [Stats](#stats)
+4. [StringX](#strix)
+5. [Tuple](#Tuple)
 6. [License](#license)
 
-### Calculator + Calculator.jar
+### Calculator
 
 The biggest package here! Contains calculators, graphing calculators, and more!
 
@@ -170,7 +170,7 @@ Inherits from GraphingCalculator, and therefore, all methods in GraphingCalculat
 Using:
 Once running the main method, you will see a frame with a slider and a submit button. Slide the slider to the scaling you want and hit submit, and any graph calls you have made after initialization will be ran.
 
-### Frac + Frac.jar
+### Frac
 
 Classes representing fractions and mixed numbers
 
@@ -251,7 +251,7 @@ m.compareTo(Fraction other) //returns
 m.toFraction() //returns m as an improper fraction
 ```
 
-### Stats + Stats.jar
+### Stats
 
 Classes that are meant to do statistics with int / double datasets. All methods in this package are static.
 
@@ -315,7 +315,7 @@ Combinatorics.factorial(num)
 //returns factorial of num
 ```
 
-### Stringx + Stringx.jar
+### Stringx
 
 A String extender (Stringx) folder, that adds new things with strings
 
@@ -391,7 +391,7 @@ Subtract.subtractAll(str, String/double/char/int remove);
 //returns new string with all instances of remove removed
 ```
 
-### Tuple + Tuple.java
+### Tuple
 
 >-- COMING SOON --< [UNDER CONSTRUCTION]
 
